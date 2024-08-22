@@ -38,11 +38,11 @@ Does this capture what you had in mind? Feel free to let me know if you’d like
 
 ## Contributors
 
--Parikshi Thakare
--Abhishek Ugalmugale
--Samradnya Thakare
--Vedanti Raut
--Tharkeshwari Thombare
--Bhakti Dethe
---Vaishnavi Shinde
-Mansi Hude
+- Parikshi Thakare
+- Abhishek Ugalmugale
+- Samradnya Thakare
+- Vedanti Raut
+- Tharkeshwari Thombare
+- Bhakti Dethe
+- Vaishnavi Shinde
+- Mansi Hude
