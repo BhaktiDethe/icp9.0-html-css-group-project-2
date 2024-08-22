@@ -38,8 +38,11 @@ Does this capture what you had in mind? Feel free to let me know if you’d like
 
 ## Contributors
 
-<a href="https://github.com/parikshitthakre5/icp9.0-html-css-group-project-2/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=parikshitthakre5/icp9.0-html-css-group-project-2" />
-</a>
-
-Made with [contrib.rocks](https://contrib.rocks).
+- Parikshit Thakre
+- Abhishek Ugalmugale
+- Samradnya Thakare
+- Vedanti Raut
+- Tharkeshwari Thombare
+- Bhakti Dethe
+- Vaishnavi Shinde
+- Mansi Hude
