@@ -38,7 +38,7 @@ Does this capture what you had in mind? Feel free to let me know if you’d like
 
 ## Contributors
 
-- Parikshi Thakare
+- Parikshit Thakre
 - Abhishek Ugalmugale
 - Samradnya Thakare
 - Vedanti Raut
